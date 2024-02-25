@@ -20,6 +20,9 @@ I began to start programming in grade 5 elementary school. At that time, I joine
 
 Right now, I am studying Python... I hope the lessons I work on can help the world ..... 🌏
 
+## Github Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shabir-mp&hide_border=true&border_radius=5.0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ## ☎️ **Contact and Media Social**
 - Email : smahfudzprahono@gmail.com
 - Discord : @shabirmp
