@@ -23,6 +23,9 @@ Right now, I am studying Python... I hope the lessons I work on can help the wor
 ## Github Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shabir-mp&hide_border=true&border_radius=5.0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+## dail.dev Stats
+<a href="https://app.daily.dev/shabirmp"><img src="https://api.daily.dev/devcards/v2/muR3tYmDB2lhpgTNG6CMd.png?type=wide&r=k0v" width="652" alt="Shabir MP's Dev Card"/></a>
+
 ## ☎️ **Contact and Media Social**
 - Email : smahfudzprahono@gmail.com
 - Discord : @shabirmp
