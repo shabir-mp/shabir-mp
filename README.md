@@ -33,7 +33,7 @@ Right now, I am studying Python... I hope the lessons I work on can help the wor
 - daily.dev : https://app.daily.dev/shabirmp
 - showwcase.com : https://www.showwcase.com/shabirmp
 - youtube.com : https://youtube.com/@shabirmp
-- reddit.com : https://www.reddit.com/user/ShabirMP
+- twitter.com : https://twitter.com/shabirmahfudz
 
 Don't forget to follow me on social media ... 😁
 
