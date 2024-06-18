@@ -1,42 +1,47 @@
-![9  ShabirMP_LogoDesign2](https://github.com/shabir-mp/shabir-mp/assets/133546000/0389dcfb-1233-4e96-8ed5-ddc7d721a67b)
+![IMG20240410172917@0 75x](https://github.com/shabir-mp/Date-and-Time/assets/133546000/e0a0cd9b-4ba9-4d12-9534-489daf087b73)
+# **Shabir Mahfudz Prahono** [![](https://visitcount.itsvg.in/api?id=shabir-mp&icon=2&color=12)](https://visitcount.itsvg.in)
 
-Assalamualaikum (Hello), Hello developer 👋, I am Shabir Mahfudz Prahono, a young developer who is still learning many things. I am currently studying the development of python and web. 😎
-### Interests I'm Currently Exploring:
-- Python Programming
-- HTML/CSS Syntax
-- Git and Github
-- Visual Studio Code
-- Adobe Premiere Pro and Adobe After Effect
-  
-## 👨🏻‍💻 **About Me :**
-- *Name*      : Shabir Mahfudz Prahono
-- *Lives*     : Bandung-Indonesia
-- *Born*      : August 11 2010
-- *Education* : Junior High School
-- *Hobby*     : Programming, Editing Videos, Explore the world
+**Username :** @shabirmp |
+**Lives :** Bandung-Indonesia |
+**Born :** August 11 2010 |
 
-## 🤠 **Getting Started with Programming :**
-I began to start programming in grade 5 elementary school. At that time, I joined extracurricular activities and began to know programming. Since then I began to like programming. Until when I was in junior high school, I started learning about HTML and CSS. I feel very proud to be able to make a web.🌐
+Assalamualaikum (Hello) Developer, 👋 <br>
+I am Shabir Mahfudz Prahono, young programmer from Indonesia. <br>
+Currently I am learning and working on various programming languages and other tech stacks 🖥. <br>
+I like things related to code, computers, technology and other similar things. What about you ? 😄
 
-Right now, I am studying Python... I hope the lessons I work on can help the world ..... 🌏
+## About Me
+I started learning programming since I was in 5th grade. At that time I participated in extracurricular activities and started to learn programming. At that time I learned about Scratch. Since then I started to like programming. Then, I started to learn about HTML and CSS. I feel very proud to be able to create a website. And finally until now, I have been studying the world of programming. And hopefully my projects and learning can help many people in the world.
 
-## Github Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shabir-mp&hide_border=true&border_radius=5.0&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 💾 Tech Stack
+1. HTML/CSS/JS
+2. Python and Framework
+3. Git and Github
+4. Adobe Premiere Pro and After Effect
+5. Other Tech Stack
+   
+## 🔗Connect With Me
+1. Email: shabirmp.tech@gmail.com
+2. Discord : @shabirmp
+3. X (Twitter) : @shabir_mahfudz
+4. Facebook : @shabir.mahfudz
+5. Reddit : @shabir_mahfudz
+6. YouTube : @shabirmp
+7. Google Developer : @shabirmp
+   
+## 📈 My GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=shabir-mp&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shabir-mp&theme=default&hide_border=false)
+![](https://github-contributor-stats.vercel.app/api?username=shabir-mp&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabir-mp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## dail.dev Stats
-<a href="https://app.daily.dev/shabirmp"><img src="https://api.daily.dev/devcards/v2/muR3tYmDB2lhpgTNG6CMd.png?type=wide&r=k0v" width="652" alt="Shabir MP's Dev Card"/></a>
+# 💡 Today Quotes:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## ☎️ **Contact and Media Social**
-- Email : smahfudzprahono@gmail.com
-- Discord : @shabirmp
-- replit.com : https://replit.com/@Shabir-MP
-- daily.dev : https://app.daily.dev/shabirmp
-- showwcase.com : https://www.showwcase.com/shabirmp
-- youtube.com : https://youtube.com/@shabirmp
-- facebook.com : https://www.facebook.com/profile.php?id=61558310093693
-- google developer : https://g.dev/shabirmp
-
-Don't forget to follow me on social media ... 😁
+## 🤝 Let's Connect
+Feel free to reach out to me for collaboration, discussion, or any queries. I'm always open to learning new things and connecting with like-minded people.
 
 ## **Conclusion**
 Thank you for visiting my github profile. Don't forget to follow my github profile and also another media social account. Wassalamualaikum (Goodbye) 🙏
+
+![Github Footer](https://github.com/shabir-mp/Kereta-Api-Indonesia-Booking-System/assets/133546000/c1833fe4-f470-494f-99e7-d583421625be)
