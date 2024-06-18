@@ -19,6 +19,8 @@ I started learning programming since I was in 5th grade. At that time I particip
 3. Git and Github
 4. Adobe Premiere Pro and After Effect
 5. Other Tech Stack
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabir-mp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
    
 ## 🔗Connect With Me
 1. Email: shabirmp.tech@gmail.com
@@ -33,7 +35,6 @@ I started learning programming since I was in 5th grade. At that time I particip
 ![](https://github-readme-stats.vercel.app/api?username=shabir-mp&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shabir-mp&theme=default&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=shabir-mp&limit=5&theme=default&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabir-mp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💡 Today Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
